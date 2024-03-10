@@ -1,22 +1,14 @@
 export const vncList = [
-  // { vncLink: "https://ppns5k-3000.csb.app" },
-  // { vncLink: "https://lt9nsj-3000.csb.app" },
-  { vncLink: "https://rq5fmr-3000.csb.app" },
-  { vncLink: "https://lp3vxt-3000.csb.app" },
-
-  { vncLink: "https://ksx29c-3000.csb.app" },
-  { vncLink: "https://697wz7-3000.csb.app" },
-
-  // { vncLink: "https://hrp4qg-3000.csb.app" },
-  { vncLink: "https://tlnrgc-3000.csb.app" },
-
-  { vncLink: "https://jsmp4y-3000.csb.app" },
-  { vncLink: "https://98325q-3000.csb.app" },
-  { vncLink: "https://38dc9y-3000.csb.app" },
-  { vncLink: "https://n8t2gy-3000.csb.app" },
-  { vncLink: "https://gqyxpn-3000.csb.app" },
-  { vncLink: "https://nppy9v-3000.csb.app" },
-  { vncLink: "https://t6tv6k-3000.csb.app" },
-
-  // ... (tambahkan item lainnya sesuai kebutuhan)
+  { vncLink: "https://lfnggl-3000.csb.app" },
+  { vncLink: "https://35553g-3000.csb.app" },
+  { vncLink: "https://zdlrf6-3000.csb.app" },
+  { vncLink: "https://g9tldh-3000.csb.app" },
+  { vncLink: "https://qm55st-3000.csb.app" },
+  { vncLink: "https://wmv75h-3000.csb.app" },
+  { vncLink: "https://nrgt53-3000.csb.app" },
+  { vncLink: "https://mcr2q6-3000.csb.app" },
+  { vncLink: "https://qj2xzr-3000.csb.app" },
+  { vncLink: "https://9p4cdx-3000.csb.app" },
+  { vncLink: "https://57m3sj-3000.csb.app" },
+  { vncLink: "https://rtrvl8-3000.csb.app/" },
 ];
