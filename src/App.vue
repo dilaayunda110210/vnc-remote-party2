@@ -12,7 +12,7 @@ function handleClick(n) {
 </script>
 
 <template>
-  <div class="container">
+  <!-- <div class="container">
     <RemoteVnc
       v-for="(item, index) in vncList"
       :key="index"
@@ -20,7 +20,7 @@ function handleClick(n) {
       :index-link="index"
       :active-link="activeIndex"
     />
-  </div>
+  </div> -->
 
   <div class="fixed-links">
     <RemoteVncLink
