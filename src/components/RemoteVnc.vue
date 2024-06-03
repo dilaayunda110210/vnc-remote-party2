@@ -50,14 +50,14 @@ function reloadIframe() {
 .container-vnc {
   width: 900px;
   height: 550px;
-  border: 2px solid #dedad9;
+  border: 2px solid #f0f0f0;
   position: relative;
   overflow: hidden;
   transition: 0.5s ease;
 }
 
 .container-vnc.active {
-  border-color: #e74c3c;
+  border-color: salmon;
 }
 
 .container-vnc.up {
@@ -130,7 +130,7 @@ function reloadIframe() {
 }
 
 .icon {
-  color: black;
+  color: salmon;
   transition: transform 0.5s ease;
 }
 
