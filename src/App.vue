@@ -9,10 +9,14 @@ const activeIndex = ref(0);
 function handleClick(n) {
   activeIndex.value = n;
 }
+
+function disableRightClick(event) {
+  event.preventDefault();
+}
 </script>
 
 <template>
-  <div class="container">
+  <div class="container" @contextmenu.prevent="disableRightClick">
     <RemoteVnc
       v-for="(item, index) in vncList"
       :key="index"
