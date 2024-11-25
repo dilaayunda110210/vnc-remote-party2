@@ -1,5 +1,5 @@
 export const vncList = [
-  { vncLink: "https://qyhsjm-3000.csb.app" },
+  { vncLink: "https://swfmm5-3000.csb.app" },
   { vncLink: "https://4wfydr-3000.csb.app" },
   { vncLink: "https://2648ww-3000.csb.app" },
   { vncLink: "https://ycfxc7-3000.csb.app" },
